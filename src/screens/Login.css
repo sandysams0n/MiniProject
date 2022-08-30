@@ -1,0 +1,6 @@
+.login-bg {
+  background-image: url("../assets/university.jpg");
+  background-size: cover; /*fit to width*/
+  background-repeat: no-repeat;
+  background-position: center center;
+}

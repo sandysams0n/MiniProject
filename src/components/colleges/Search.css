@@ -1,0 +1,38 @@
+.search-container {
+  margin: auto;
+  width: 90%;
+}
+
+.college-card {
+  height: 350px;
+  width: 300px;
+  margin: 30px;
+  box-shadow: 1px 1px 1px 1px #006064;
+}
+
+.college-card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h5 {
+  text-align: center;
+}
+
+.vertical-container {
+  align-items: center;
+}
+
+.card-image {
+  width: 200px;
+
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.card-btn {
+  margin-right: 50px;
+  margin-top: 20px;
+  float: right;
+}

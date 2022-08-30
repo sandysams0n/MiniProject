@@ -1,0 +1,9 @@
+.wishlist-container {
+  width: 90%;
+  margin: auto;
+}
+
+.wishlist-item {
+  display: flex;
+  align-items: center;
+}

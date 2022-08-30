@@ -1,0 +1,34 @@
+.login-container {
+  font-size: 28px;
+  height: 500px;
+  width: 744px;
+  border-radius: 5px;
+  background-color: #fff;
+  align-items: center;
+  opacity: 96%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-container {
+  width: 450px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+}
+
+/* label color */
+.input-field label {
+  color: #333;
+}
+
+.center-align {
+  padding-top: 40px;
+  margin-top: none;
+}
+
+.error-msg {
+  font-size: 11.6px;
+  color: rgba(255, 0, 0, 0.685);
+}
