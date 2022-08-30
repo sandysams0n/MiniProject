@@ -1,4 +1,4 @@
-#College HUNT App
+# College HUNT App
 
 College HUNT uses redux-thunk to fetch colleges from the API: http://universities.hipolabs.com/search?country=India and uses Redux for state management.
 
